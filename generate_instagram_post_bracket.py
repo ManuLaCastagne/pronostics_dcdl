@@ -17,7 +17,7 @@ WIDTH = 1080
 HEIGHT = 1350
 
 TOP_N = 8
-START_RANK = 1
+START_RANK = 9
 
 RUNTIME_CONFIG_FILE = BASE_DIR / "data" / "runtime_config.json"
 

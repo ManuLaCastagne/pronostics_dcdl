@@ -250,12 +250,18 @@ with st.expander("Voir la base joueurs"):
     st.dataframe(players_df, use_container_width=True)
 
 
-tab_master, tab_bracket, tab_elo, tab_settings = st.tabs([
+tab_master, tab_bracket, tab_settings = st.tabs([
     "Master",
     "Bracket / Match",
-    "Elo brut",
     "Paramètres"
 ])
+
+# tab_master, tab_bracket, tab_elo, tab_settings = st.tabs([
+#     "Master",
+#     "Bracket / Match",
+#     "Elo brut",
+#     "Paramètres"
+# ])
 
 
 # =========================================================
@@ -348,32 +354,32 @@ with tab_bracket:
 # ELO BRUT
 # =========================================================
 
-with tab_elo:
-    st.header("Pronostic Elo brut")
+# with tab_elo:
+#     st.header("Pronostic Elo brut")
 
-    st.caption("Utilise elo_pronostics.py. Attention : ton générateur Master doit lire pronostic_elo_post_ready.csv si tu veux ce rendu.")
+#     st.caption("Utilise elo_pronostics.py. Attention : ton générateur Master doit lire pronostic_elo_post_ready.csv si tu veux ce rendu.")
 
-    default_elo = all_players[:24] if len(all_players) >= 24 else all_players
+#     default_elo = all_players[:24] if len(all_players) >= 24 else all_players
 
-    selected_elo_players = st.multiselect(
-        "Joueurs",
-        all_players,
-        default=default_elo,
-        key="elo_players"
-    )
+#     selected_elo_players = st.multiselect(
+#         "Joueurs",
+#         all_players,
+#         default=default_elo,
+#         key="elo_players"
+#     )
 
-    st.write(f"{len(selected_elo_players)} joueur(s) sélectionné(s).")
+#     st.write(f"{len(selected_elo_players)} joueur(s) sélectionné(s).")
 
-    if st.button("Générer le visuel Elo brut", type="primary"):
-        if len(selected_elo_players) < 2:
-            st.error("Sélectionne au moins 2 joueurs.")
-        else:
-            write_selection_file(ELO_SELECTION_FILE, selected_elo_players)
+#     if st.button("Générer le visuel Elo brut", type="primary"):
+#         if len(selected_elo_players) < 2:
+#             st.error("Sélectionne au moins 2 joueurs.")
+#         else:
+#             write_selection_file(ELO_SELECTION_FILE, selected_elo_players)
 
-            ok = run_elo_pipeline()
+#             ok = run_elo_pipeline()
 
-            if ok:
-                display_image_if_exists(MASTER_IMAGE, "image Elo brut")
+#             if ok:
+#                 display_image_if_exists(MASTER_IMAGE, "image Elo brut")
 
 # =========================================================
 # PARAMÈTRES
