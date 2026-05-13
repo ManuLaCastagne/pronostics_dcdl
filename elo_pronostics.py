@@ -16,6 +16,8 @@ OUTPUT_EXCEL = "outputs/excel/pronostic_elo.xlsx"
 OUTPUT_CSV = "outputs/csv/pronostic_elo.csv"
 POST_DATA_FILE = "outputs/csv/pronostic_elo_post_data.csv"
 
+ELO_DIVISOR = 200.0 # inutile
+
 
 # =========================================================
 # OUTILS
