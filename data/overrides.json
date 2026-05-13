@@ -1,6 +1,6 @@
 {
   "global": {
-    "elo_divisor": 600
+    "elo_divisor": 400
   },
   "players": {
     "HAESELEER Christian": {

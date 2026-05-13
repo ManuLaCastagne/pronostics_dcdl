@@ -1,4 +1,5 @@
 player,display_name,photo,flag,club_logo,club,theme_color
+HEEREN Renaud,HEEREN Renaud,assets/players/heeren-renaud.png,assets/flags/be.png,assets/clubs/default.png,,#F59E0B
 HAESELEER Christian,HAESELEER Christian,assets/players/haeseleer-christian.png,assets/flags/be.png,assets/clubs/acl.png,ACL,#F59E0B
 BALAŸ Éric,BALAŸ Éric,assets/players/balay-eric.png,assets/flags/fr.png,assets/clubs/lyon.png,Lyon,#1D4ED8
 BOUCHERAND Marie-Hélène,BOUCHERAND Marie-Hélène,assets/players/boucherand-marie-helene.png,assets/flags/fr.png,assets/clubs/vinay.png,Vinay,#1D4ED8
