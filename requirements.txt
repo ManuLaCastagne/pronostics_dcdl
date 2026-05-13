@@ -1,0 +1,9 @@
+selenium
+python-pptx
+requests
+bs4
+streamlit
+pandas
+pillow
+xlsxwriter
+numpy
