@@ -1,37 +1,13 @@
 {
   "global": {
-    "elo_divisor": 200
+    "elo_divisor": 400
   },
   "players": {
     "HAESELEER Christian": {
       "manual_elo": 1700
     },
-    "LEVESQUE Christian": {
-      "manual_elo": 1900
-    },
-    "PUMA Cyrille": {
-      "manual_elo": 1700
-    },
     "CROSNIER Stéphane": {
       "manual_elo": 1950
-    },
-    "BALAŸ Éric": {
-      "manual_elo": 1300
-    },
-    "BOUCHERAND Marie-Hélène": {
-      "manual_elo": 1500
-    },
-    "COMBE Christian": {
-      "manual_elo": 1300
-    },
-    "DUBOIS Jean-Marc": {
-      "manual_elo": 1600
-    },
-    "FECHE Chantal": {
-      "manual_elo": 1400
-    },
-    "RAVEL Paul": {
-      "manual_elo": 1400
     }
   }
 }
