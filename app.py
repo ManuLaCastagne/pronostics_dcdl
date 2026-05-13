@@ -1,5 +1,6 @@
 import json
 import subprocess
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -161,7 +162,7 @@ def run_command(script_name):
 
     with st.spinner(f"Exécution : {script_name}"):
         result = subprocess.run(
-            ["python", script_name],
+            [sys.executable, script_name],
             cwd=BASE_DIR,
             capture_output=True,
             text=True
