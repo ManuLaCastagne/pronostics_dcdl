@@ -551,10 +551,3 @@ with tab_settings:
         save_runtime_config(runtime_config)
 
         st.success("Titres sauvegardés.")
-
-    if st.button("Réinitialiser les titres"):
-        runtime_config = load_runtime_config()
-        runtime_config["post_title"] = "Probabilité de victoire"
-        runtime_config["post_subtitle"] = ""
-        save_runtime_config(runtime_config)
-        st.success("Titres réinitialisés.")
