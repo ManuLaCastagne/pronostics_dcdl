@@ -1,0 +1,25 @@
+rank,player,elo_effective,win_probability,Top1,display_name,photo,flag,club_logo,club,theme_color
+1,SUYS Olivier,2121.0,0.0648979560909664,0.0648979560909664,SUYS Olivier,assets/players/suys-olivier.png,assets/flags/fr.png,assets/clubs/viroflay.png,Viroflay,#111827
+2,DUMAS Emmanuel,2095.0,0.0611267096776775,0.0611267096776775,DUMAS Emmanuel,assets/players/dumas-emmanuel.png,assets/flags/fr.png,assets/clubs/lyon.png,Lyon,#1D4ED8
+3,BLAYE Arnaud,2038.0,0.0536081745811317,0.0536081745811317,BLAYE Arnaud,assets/players/blaye-arnaud.png,assets/flags/fr.png,assets/clubs/default.png,,#111827
+4,LANDEMAINE Thierry,2024.0,0.051907608361497,0.051907608361497,LANDEMAINE Thierry,assets/players/landemaine-thierry.png,assets/flags/fr.png,assets/clubs/fontenay-sous-bois.png,Fontenay-sous-Bois,#111827
+5,PINEL Florian,2011.0,0.0503768512907082,0.0503768512907082,PINEL Florian,assets/players/pinel-florian.png,assets/flags/fr.png,assets/clubs/toulouse.png,Toulouse,#EA580C
+6,MERRHEIM Philippe,1996.0,0.0486666014701277,0.0486666014701277,MERRHEIM Philippe,assets/players/merrheim-philippe.png,assets/flags/fr.png,assets/clubs/villeneuve-dascq.png,Villeneuve d'Ascq,#DC2626
+7,DURAND Jean-Marc,1951.0,0.0438764032508388,0.0438764032508388,DURAND Jean-Marc,assets/players/durand-jean-marc.png,assets/flags/fr.png,assets/clubs/laxou.png,Laxou,#7C3AED
+8,LECLÈRE Christophe,1946.0,0.0433741542160324,0.0433741542160324,LECLÈRE Christophe,assets/players/leclere-christophe.png,assets/flags/fr.png,assets/clubs/epernay.png,Épernay,#7C3AED
+9,COSTE Denis,1923.0,0.0411368486885456,0.0411368486885456,COSTE Denis,assets/players/coste-denis.png,assets/flags/fr.png,assets/clubs/default.png,,#DB2777
+10,BERNARD Pierre,1920.0,0.0408536646140583,0.0408536646140583,BERNARD Pierre,assets/players/bernard-pierre.png,assets/flags/fr.png,assets/clubs/la-roche-sur-yon.png,La-Roche-sur-Yon,#059669
+11,TRUCCHI Sébastien,1916.0,0.0404791159655442,0.0404791159655442,TRUCCHI Sébastien,assets/players/trucchi-sebastien.png,assets/flags/fr.png,assets/clubs/antibes.png,Antibes,#DB2777
+12,OLIVIER Philippe,1902.0,0.0391950316304676,0.0391950316304676,OLIVIER Philippe,assets/players/olivier-philippe.png,assets/flags/be.png,assets/clubs/dour.png,Dour,#F59E0B
+13,CAMBLONCQ Thierry,1901.0,0.0391048855592446,0.0391048855592446,CAMBLONCQ Thierry,assets/players/cambloncq-thierry.png,assets/flags/fr.png,assets/clubs/pau.png,,#EA580C
+14,BROSSEAU Dany,1891.0,0.0382147496897112,0.0382147496897112,BROSSEAU Dany,assets/players/brosseau-dany.png,assets/flags/fr.png,assets/clubs/tarbes-nord.png,Tarbes-Nord,#EA580C
+15,DUCHAINE Laurent,1880.0,0.0372589849554321,0.0372589849554321,DUCHAINE Laurent,assets/players/duchaine-laurent.png,assets/flags/fr.png,assets/clubs/tarbes-nord.png,Tarbes-Nord,#EA580C
+16,RODRIGUES Marvin,1864.0,0.0359112910908144,0.0359112910908144,RODRIGUES Marvin,assets/players/rodrigues-marvin.png,assets/flags/fr.png,assets/clubs/default.png,,#EA580C
+17,ROCCHIA Philippe,1846.0,0.0344533153510798,0.0344533153510798,ROCCHIA Philippe,assets/players/rocchia-philippe.png,assets/flags/fr.png,assets/clubs/marseille.png,Marseille,#DB2777
+18,BARBET Catherine,1845.0,0.0343740749246709,0.0343740749246709,BARBET Catherine,assets/players/barbet-catherine.png,assets/flags/fr.png,assets/clubs/saint-lo.png,Saint-Lô,#2563EB
+19,KERBIRIOU Jean-Luc,1844.0,0.0342950167461854,0.0342950167461854,KERBIRIOU Jean-Luc,assets/players/kerbiriou-jean-luc.png,assets/flags/fr.png,assets/clubs/default.png,,#111827
+20,BARCET Vincent,1840.0,0.0339805981427529,0.0339805981427529,BARCET Vincent,assets/players/barcet-vincent.png,assets/flags/fr.png,assets/clubs/default.png,,#DB2777
+21,CALAIS Jean-Manuel,1833.0,0.033437285952875,0.033437285952875,CALAIS Jean-Manuel,assets/players/calais-jean-manuel.png,assets/flags/fr.png,assets/clubs/default.png,,#111827
+22,ROUX Pierre-Damien,1833.0,0.033437285952875,0.033437285952875,ROUX Pierre-Damien,assets/players/roux-pierre-damien.png,assets/flags/fr.png,assets/clubs/fontenay-sous-bois.png,Fontenay-sous-Bois,#111827
+23,BONTHOUX Julien,1829.0,0.0331307310726227,0.0331307310726227,BONTHOUX Julien,assets/players/bonthoux-julien.png,assets/flags/fr.png,assets/clubs/default.png,,#1D4ED8
+24,BAKAYOKO Ahmed,1826.0,0.0329026607241397,0.0329026607241397,BAKAYOKO Ahmed,assets/players/bakayoko-ahmed.png,assets/flags/fr.png,assets/clubs/viroflay.png,Viroflay,#111827
