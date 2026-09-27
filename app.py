@@ -337,6 +337,53 @@ def load_players():
         .reset_index(drop=True)
     )
 
+def apply_overrides_to_players_json():
+    """
+    Fusionne temporairement les overrides dans players.json
+    afin que les scripts externes (master_pronostics.py, etc.)
+    voient exactement les mêmes joueurs que l'interface Streamlit.
+    """
+
+    players = load_json_file(PLAYERS_FILE, [])
+    overrides = load_overrides()
+
+    players_by_name = {}
+
+    for p in players:
+        name = normalize_player_name(p.get("player", ""))
+
+        if not name:
+            continue
+
+        players_by_name[name] = p.copy()
+        players_by_name[name]["player"] = name
+
+    for player_name, cfg in overrides.get("players", {}).items():
+        clean_name = normalize_player_name(player_name)
+
+        manual_elo = cfg.get("manual_elo")
+
+        if manual_elo is None:
+            continue
+
+        if clean_name in players_by_name:
+            players_by_name[clean_name]["points"] = int(manual_elo)
+
+        else:
+            players_by_name[clean_name] = {
+                "player": clean_name,
+                "points": int(manual_elo),
+                "games": 0,
+                "inactivity": 0,
+                "history": []
+            }
+
+    merged_players = list(players_by_name.values())
+
+    save_json_file(
+        PLAYERS_FILE,
+        merged_players
+    )
 
 def write_selection_file(path: Path, players):
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -394,6 +441,9 @@ def display_image_if_exists(image_path: Path, label: str):
 
 
 def run_master_pipeline():
+
+    apply_overrides_to_players_json()
+
     ok = run_command(SCRIPT_MASTER)
 
     if ok:
@@ -406,6 +456,9 @@ def run_master_pipeline():
 
 
 def run_elo_pipeline():
+
+    apply_overrides_to_players_json()
+
     ok = run_command(SCRIPT_ELO)
 
     if ok:
@@ -418,10 +471,15 @@ def run_elo_pipeline():
 
 
 def run_bracket_pipeline(bracket_size):
+
+    apply_overrides_to_players_json()
+
     script = BRACKET_SCRIPTS.get(bracket_size)
 
     if script is None:
-        st.error(f"Format bracket non géré : {bracket_size}")
+        st.error(
+            f"Format bracket non géré : {bracket_size}"
+        )
         return False
 
     ok = run_command(script)
