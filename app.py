@@ -117,7 +117,6 @@ def parse_int(value, default=0):
         return default
 
 
-@st.cache_data(ttl=3600, show_spinner=False)
 def fetch_players_from_clax():
     """
     Récupère automatiquement le classement Elo global depuis CLAX.
@@ -694,7 +693,6 @@ with tab_settings:
     )
 
     if st.button("Forcer la synchronisation CLAX"):
-        fetch_players_from_clax.clear()
 
         ok, count, error = sync_players_from_clax()
 
