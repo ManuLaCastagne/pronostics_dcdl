@@ -7,3 +7,5 @@ pandas
 pillow
 xlsxwriter
 numpy
+lxml
+html5lib
