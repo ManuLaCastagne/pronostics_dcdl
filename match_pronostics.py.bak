@@ -2,20 +2,21 @@ import json
 from pathlib import Path
 
 import pandas as pd
-from elo_source import get_players
 
 
 # =========================================================
 # CONFIG
 # =========================================================
+
+PLAYERS_FILE = "data/players.json"
 SELECTION_FILE = "data/bracket_selection.txt"
 OVERRIDES_FILE = "data/overrides.json"
 OUTPUT_FILE = "outputs/excel/bracket_pronostics.xlsx"
 POST_DATA_FILE = "outputs/csv/bracket_post_data.csv"
 
-# Bracket standard 8 joueurs :
-# (1 vs 8), (4 vs 5), (2 vs 7), (3 vs 6)
-BRACKET_SEED_ORDER = [1, 8, 4, 5, 2, 7, 3, 6]
+# Bracket standard 2 joueurs :
+# 1 vs 2
+BRACKET_SEED_ORDER = [1, 2]
 
 
 # =========================================================
@@ -56,10 +57,10 @@ def load_selected_names(filepath):
     with path.open("r", encoding="utf-8") as f:
         names = [line.strip() for line in f if line.strip()]
 
-    if len(names) != 8:
+    if len(names) != 2:
         raise ValueError(
-            "bracket_selection.txt doit contenir exactement 8 joueurs "
-            "(un par ligne, dans l'ordre des seeds 1 à 8)."
+            "bracket_selection.txt doit contenir exactement 2 joueurs "
+            "(un par ligne, dans l'ordre des seeds 1 à 2)."
         )
 
     return names
@@ -101,7 +102,7 @@ def select_players_by_seed(all_players, selected_names):
 
     if duplicates:
         raise ValueError(
-            "Doublons détectés dans la source joueurs : " + ", ".join(sorted(duplicates))
+            "Doublons détectés dans players.json : " + ", ".join(sorted(duplicates))
         )
 
     selected_players = []
@@ -119,7 +120,7 @@ def select_players_by_seed(all_players, selected_names):
 
     if missing:
         raise ValueError(
-            "Joueurs introuvables dans CLAX / overrides.json :\n- " + "\n- ".join(missing)
+            "Joueurs introuvables dans players.json :\n- " + "\n- ".join(missing)
         )
 
     return selected_players
@@ -170,7 +171,7 @@ def build_duel_matrix(player_elos, elo_divisor=400.0):
 
 
 # =========================================================
-# BRACKET EXACT (8 JOUEURS)
+# FINALE EXACTE (2 JOUEURS)
 # =========================================================
 
 def reorder_players_for_bracket(seed_players):
@@ -178,101 +179,50 @@ def reorder_players_for_bracket(seed_players):
     return [by_seed[s] for s in BRACKET_SEED_ORDER]
 
 
-def compute_subtree_distribution(players_in_subtree, player_elos, elo_divisor=400.0):
-    n = len(players_in_subtree)
-
-    if n == 1:
-        return {players_in_subtree[0]: 1.0}
-
-    mid = n // 2
-    left = players_in_subtree[:mid]
-    right = players_in_subtree[mid:]
-
-    left_dist = compute_subtree_distribution(left, player_elos, elo_divisor)
-    right_dist = compute_subtree_distribution(right, player_elos, elo_divisor)
-
-    result = {}
-
-    for a, p_a_reach in left_dist.items():
-        total = 0.0
-        for b, p_b_reach in right_dist.items():
-            total += p_b_reach * elo_win_probability(player_elos[a], player_elos[b], elo_divisor)
-        result[a] = p_a_reach * total
-
-    for b, p_b_reach in right_dist.items():
-        total = 0.0
-        for a, p_a_reach in left_dist.items():
-            total += p_a_reach * elo_win_probability(player_elos[b], player_elos[a], elo_divisor)
-        result[b] = p_b_reach * total
-
-    return result
-
-
-def compute_round_reach_probabilities(bracket_players, player_elos, elo_divisor=400.0):
-    names = [p["player"] for p in bracket_players]
-
-    probs = {
-        name: {
-            "reach_qf": 1.0,   # les 8 joueurs sont en quarts au départ
-            "reach_sf": 0.0,   # atteint les demies
-            "reach_f": 0.0,    # atteint la finale
-            "win": 0.0,        # gagne le tournoi
-        }
-        for name in names
-    }
-
-    # Quarts -> Demies
-    round1_groups = [names[i:i + 2] for i in range(0, 8, 2)]
-    for group in round1_groups:
-        dist = compute_subtree_distribution(group, player_elos, elo_divisor)
-        for player, p in dist.items():
-            probs[player]["reach_sf"] = p
-
-    # Demies -> Finale
-    round2_groups = [names[i:i + 4] for i in range(0, 8, 4)]
-    for group in round2_groups:
-        dist = compute_subtree_distribution(group, player_elos, elo_divisor)
-        for player, p in dist.items():
-            probs[player]["reach_f"] = p
-
-    # Finale -> Vainqueur
-    final_dist = compute_subtree_distribution(names, player_elos, elo_divisor)
-    for player, p in final_dist.items():
-        probs[player]["win"] = p
-
-    return probs
-
-
 def build_bracket_probability_table(bracket_players, player_elos, elo_divisor=400.0):
-    probs = compute_round_reach_probabilities(bracket_players, player_elos, elo_divisor)
+    if len(bracket_players) != 2:
+        raise ValueError("Ce script est prévu pour une finale à 2 joueurs.")
 
-    rows = []
-    for p in bracket_players:
-        name = p["player"]
-        seed = p["seed"]
-        elo = player_elos[name]
+    p1 = bracket_players[0]
+    p2 = bracket_players[1]
 
-        reach_sf = probs[name]["reach_sf"]
-        reach_f = probs[name]["reach_f"]
-        win = probs[name]["win"]
+    name1 = p1["player"]
+    name2 = p2["player"]
 
-        lose_qf = 1.0 - reach_sf
-        lose_sf = reach_sf - reach_f
-        lose_f = reach_f - win
+    elo1 = player_elos[name1]
+    elo2 = player_elos[name2]
 
-        rows.append({
-            "seed": seed,
-            "player": name,
-            "elo": elo,
-            "Top1": win,
-            "Top2": reach_f,
-            "Top4": reach_sf,
-            "Top8": 1.0,
-            "elim_QF": lose_qf,
-            "elim_SF": lose_sf,
-            "finalist_lost": lose_f,
-            "champion": win,
-        })
+    p1_win = elo_win_probability(elo1, elo2, elo_divisor)
+    p2_win = 1.0 - p1_win
+
+    rows = [
+        {
+            "seed": p1["seed"],
+            "player": name1,
+            "elo": elo1,
+            "Top1": p1_win,
+            "Top2": 1.0,
+            "Top4": None,
+            "Top8": None,
+            "elim_QF": None,
+            "elim_SF": None,
+            "finalist_lost": 1.0 - p1_win,
+            "champion": p1_win,
+        },
+        {
+            "seed": p2["seed"],
+            "player": name2,
+            "elo": elo2,
+            "Top1": p2_win,
+            "Top2": 1.0,
+            "Top4": None,
+            "Top8": None,
+            "elim_QF": None,
+            "elim_SF": None,
+            "finalist_lost": 1.0 - p2_win,
+            "champion": p2_win,
+        },
+    ]
 
     df = pd.DataFrame(rows)
     df = df.sort_values(["Top1", "elo"], ascending=[False, False]).reset_index(drop=True)
@@ -280,20 +230,22 @@ def build_bracket_probability_table(bracket_players, player_elos, elo_divisor=40
 
 
 def build_bracket_matches_view(bracket_players):
+    if len(bracket_players) != 2:
+        raise ValueError("Ce script est prévu pour une finale à 2 joueurs.")
+
     names = [p["player"] for p in bracket_players]
     seeds = [p["seed"] for p in bracket_players]
 
-    rows = []
-    for i in range(0, 8, 2):
-        rows.append({
-            "match_qf": (i // 2) + 1,
-            "seed_a": seeds[i],
-            "player_a": names[i],
-            "seed_b": seeds[i + 1],
-            "player_b": names[i + 1],
-        })
-
-    return pd.DataFrame(rows)
+    return pd.DataFrame([
+        {
+            "round": "F",
+            "match": 1,
+            "seed_a": seeds[0],
+            "player_a": names[0],
+            "seed_b": seeds[1],
+            "player_b": names[1],
+        }
+    ])
 
 
 # =========================================================
@@ -389,22 +341,22 @@ def export_to_excel(players_df, elo_control_df, bracket_df, matches_df, duel_df,
 
 def main():
     print("Chargement des joueurs...")
-    all_players = get_players(OVERRIDES_FILE)
+    all_players = load_players(PLAYERS_FILE)
 
-    print("Chargement du bracket (seeds 1 à 8)...")
+    print("Chargement de la finale (seeds 1 à 2)...")
     selected_names = load_selected_names(SELECTION_FILE)
 
     print("Chargement des overrides...")
     overrides = load_overrides(OVERRIDES_FILE)
     elo_divisor = float(overrides.get("global", {}).get("elo_divisor", 400.0))
 
-    print("Sélection des 8 joueurs...")
+    print("Sélection des 2 joueurs...")
     selected_players = select_players_by_seed(all_players, selected_names)
 
-    print("Réorganisation dans le tableau standard...")
+    print("Réorganisation du match final...")
     bracket_players = reorder_players_for_bracket(selected_players)
 
-    print("Joueurs du bracket :")
+    print("Joueurs de la finale :")
     for p in bracket_players:
         print(f"Seed {p['seed']:>2} - {p['player']} ({p['points']} Elo source)")
 
@@ -414,10 +366,10 @@ def main():
     print("Calcul de la matrice des duels...")
     duel_df = build_duel_matrix(player_elos, elo_divisor)
 
-    print("Calcul exact des probabilités du bracket...")
+    print("Calcul exact des probabilités de la finale...")
     bracket_df = build_bracket_probability_table(bracket_players, player_elos, elo_divisor)
 
-    print("Préparation de la vue du tableau...")
+    print("Préparation de la vue du match...")
     matches_df = build_bracket_matches_view(bracket_players)
 
     print("Construction du contrôle Elo...")

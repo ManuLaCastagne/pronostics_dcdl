@@ -1,0 +1,4957 @@
+{
+  "updated_at": "2026-09-27T12:14:02.499885",
+  "players": [
+    {
+      "player": "SUYS Olivier",
+      "points": 2195,
+      "games": 219,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BLAYE Arnaud",
+      "points": 2155,
+      "games": 526,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUMAS Emmanuel",
+      "points": 2116,
+      "games": 418,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LANDEMAINE Thierry",
+      "points": 2097,
+      "games": 431,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LECLÈRE Christophe",
+      "points": 2035,
+      "games": 449,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PINEL Florian",
+      "points": 2026,
+      "games": 426,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MERRHEIM Philippe",
+      "points": 1992,
+      "games": 220,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DURAND Jean-Marc",
+      "points": 1981,
+      "games": 245,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CAMBLONCQ Thierry",
+      "points": 1915,
+      "games": 172,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "OLIVIER Philippe",
+      "points": 1915,
+      "games": 333,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BARCET Vincent",
+      "points": 1908,
+      "games": 123,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BROSSEAU Dany",
+      "points": 1906,
+      "games": 297,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RODRIGUES Marvin",
+      "points": 1902,
+      "games": 224,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TRUCCHI Sébastien",
+      "points": 1902,
+      "games": 311,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BERNARD Pierre",
+      "points": 1898,
+      "games": 230,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COSTE Denis",
+      "points": 1881,
+      "games": 151,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROUX Pierre-Damien",
+      "points": 1871,
+      "games": 156,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BAKAYOKO Ahmed",
+      "points": 1870,
+      "games": 406,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "KERBIRIOU Jean-Luc",
+      "points": 1863,
+      "games": 124,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BONTHOUX Julien",
+      "points": 1849,
+      "games": 163,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SUYS Alain",
+      "points": 1848,
+      "games": 128,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROCCHIA Philippe",
+      "points": 1846,
+      "games": 35,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FOURY Christian",
+      "points": 1832,
+      "games": 225,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BRAGANTI Patrick",
+      "points": 1830,
+      "games": 389,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUCHAINE Laurent",
+      "points": 1827,
+      "games": 292,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CALAIS Jean-Manuel",
+      "points": 1817,
+      "games": 255,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BARDOUX Ludovic",
+      "points": 1816,
+      "games": 157,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RIBOLI Maxime",
+      "points": 1813,
+      "games": 124,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROSZAK Nicolas",
+      "points": 1807,
+      "games": 70,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NORMAND Jean-François",
+      "points": 1801,
+      "games": 311,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BARBET Catherine",
+      "points": 1796,
+      "games": 363,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GAUTHIER Wilfrid",
+      "points": 1796,
+      "games": 187,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FRITSCH Pascal",
+      "points": 1795,
+      "games": 32,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEVESQUE Christian",
+      "points": 1793,
+      "games": 47,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CORNOUILLER Bruno",
+      "points": 1781,
+      "games": 39,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DAMBRE Bruno",
+      "points": 1777,
+      "games": 193,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NOVALES Bruno",
+      "points": 1772,
+      "games": 147,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SCHAFTER Olivier",
+      "points": 1766,
+      "games": 114,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHEVROLLIER Pascal",
+      "points": 1761,
+      "games": 84,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SAADA Gilbert",
+      "points": 1757,
+      "games": 209,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CORNOUILLER Héloïse",
+      "points": 1750,
+      "games": 206,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARTIN Patrice",
+      "points": 1749,
+      "games": 212,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DINOMAIS Hervé",
+      "points": 1738,
+      "games": 166,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUMONCEAU Frédéric",
+      "points": 1737,
+      "games": 165,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ALBOUY Éric",
+      "points": 1732,
+      "games": 253,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LE TOUZ Nicolas",
+      "points": 1721,
+      "games": 219,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COMÈS Stéphane",
+      "points": 1720,
+      "games": 339,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COLARD Jacques",
+      "points": 1715,
+      "games": 259,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "POIRIER Loïc",
+      "points": 1711,
+      "games": 140,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOLKA Jimmy",
+      "points": 1709,
+      "games": 153,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUBOIS Constance",
+      "points": 1709,
+      "games": 243,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MANGIN Richard",
+      "points": 1705,
+      "games": 15,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SMADJA Gilles",
+      "points": 1705,
+      "games": 287,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUBUIS Christian",
+      "points": 1697,
+      "games": 154,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FERRET Romain",
+      "points": 1696,
+      "games": 535,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHASSARD Alexandre",
+      "points": 1695,
+      "games": 197,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FLORET Joël",
+      "points": 1694,
+      "games": 79,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PUMA Cyrille",
+      "points": 1688,
+      "games": 150,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SANTI Gérard",
+      "points": 1687,
+      "games": 88,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LE QUÉAU Gildas",
+      "points": 1680,
+      "games": 79,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BARREAU Alain",
+      "points": 1679,
+      "games": 56,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JOBY Antoine",
+      "points": 1673,
+      "games": 71,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LOUIS-JOSEPH Fernand",
+      "points": 1673,
+      "games": 270,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "AVOGNON Brice",
+      "points": 1670,
+      "games": 151,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MOISELET Bernadette",
+      "points": 1668,
+      "games": 145,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TRIKI Farid",
+      "points": 1668,
+      "games": 183,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOURGEON Céline",
+      "points": 1657,
+      "games": 156,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VIGLIONE Gérard",
+      "points": 1655,
+      "games": 122,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TELLIER Alain",
+      "points": 1653,
+      "games": 159,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BALLAROTTA Benjamin",
+      "points": 1651,
+      "games": 141,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GEORGES Éric",
+      "points": 1647,
+      "games": 159,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HENNEUSE Pascal",
+      "points": 1644,
+      "games": 49,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SIMÉON Jacques",
+      "points": 1643,
+      "games": 95,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RODI Mathilda",
+      "points": 1642,
+      "games": 302,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NEPVEU Mathieu",
+      "points": 1639,
+      "games": 42,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BERNARD Pascal",
+      "points": 1633,
+      "games": 146,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOSSEMAN Sébastien",
+      "points": 1633,
+      "games": 43,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHASSIGNOL Édith",
+      "points": 1631,
+      "games": 70,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LECARPENTIER Stéphane",
+      "points": 1630,
+      "games": 112,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUBOIS Pierre",
+      "points": 1628,
+      "games": 68,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PERRIN Marcel",
+      "points": 1628,
+      "games": 45,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CROCHET Dominique",
+      "points": 1627,
+      "games": 79,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BAYOUMEU Franck",
+      "points": 1625,
+      "games": 35,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COURBI Olivier",
+      "points": 1625,
+      "games": 58,
+      "inactivity": 8,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GIRARD Cyrille",
+      "points": 1624,
+      "games": 162,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LESCOT José",
+      "points": 1622,
+      "games": 203,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUPONCHEL Jérôme",
+      "points": 1621,
+      "games": 91,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LOUVEAU Marc",
+      "points": 1621,
+      "games": 223,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUBOIS Estelle",
+      "points": 1619,
+      "games": 53,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROUSSEL Pascal",
+      "points": 1619,
+      "games": 60,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MONARD Clairette",
+      "points": 1618,
+      "games": 78,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BONY Alan",
+      "points": 1616,
+      "games": 150,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SAUNAL Christiane",
+      "points": 1611,
+      "games": 121,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RICHARD Pascal",
+      "points": 1610,
+      "games": 121,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RENAUD Jean-Pierre",
+      "points": 1607,
+      "games": 108,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VALDENAIRE Gilles",
+      "points": 1607,
+      "games": 104,
+      "inactivity": 8,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CORDIER Killian",
+      "points": 1606,
+      "games": 245,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CLAUS Quentin",
+      "points": 1604,
+      "games": 26,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MASUYER Hervé",
+      "points": 1604,
+      "games": 186,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LAMBERT Bernadette",
+      "points": 1601,
+      "games": 92,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COUBLUCQ Alain",
+      "points": 1599,
+      "games": 43,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SANTRAN Céline",
+      "points": 1599,
+      "games": 101,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DURAND Catherine",
+      "points": 1598,
+      "games": 241,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOSSER Vincent",
+      "points": 1596,
+      "games": 123,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOULESTEIX Claude",
+      "points": 1596,
+      "games": 25,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MAURY Roger",
+      "points": 1596,
+      "games": 15,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MOULIN Laurence",
+      "points": 1596,
+      "games": 20,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FARIGOUL Nadine",
+      "points": 1592,
+      "games": 89,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VOLDOIRE Marie-Claire",
+      "points": 1590,
+      "games": 75,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DIDIERJEAN Daniel",
+      "points": 1588,
+      "games": 23,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PAPUT Didier",
+      "points": 1588,
+      "games": 30,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUMAS Geneviève",
+      "points": 1587,
+      "games": 287,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ENDELIN Marie",
+      "points": 1587,
+      "games": 36,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DURAND Emmanuel",
+      "points": 1586,
+      "games": 146,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEROUX Brigitte",
+      "points": 1586,
+      "games": 79,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NYSSEN Marie-Claude",
+      "points": 1586,
+      "games": 127,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PEREZ Jean-Pierre",
+      "points": 1586,
+      "games": 115,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "KOUDJONOU Koffi",
+      "points": 1585,
+      "games": 29,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "OSTWALD Bernard",
+      "points": 1585,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ASSUMEL Rémi",
+      "points": 1584,
+      "games": 132,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ALARY Tristan",
+      "points": 1582,
+      "games": 17,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BENOIT Rémi",
+      "points": 1582,
+      "games": 15,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUBOIS Jean-Marc",
+      "points": 1581,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "AGUSTI Françoise",
+      "points": 1579,
+      "games": 215,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NAVÈRES Jean-Hugues",
+      "points": 1578,
+      "games": 70,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHIBAH Kamel",
+      "points": 1577,
+      "games": 85,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SEYMAT Maxence",
+      "points": 1577,
+      "games": 17,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VASSEUR Olivier",
+      "points": 1576,
+      "games": 15,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BERRUER Sylvie",
+      "points": 1575,
+      "games": 75,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MANDRAS Jean-Pierre",
+      "points": 1575,
+      "games": 13,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MAUROUARD Lionel",
+      "points": 1575,
+      "games": 30,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FROMONT Benjamin",
+      "points": 1571,
+      "games": 52,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PERLINSKI Richard",
+      "points": 1571,
+      "games": 118,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ALLARD Jeanine",
+      "points": 1568,
+      "games": 29,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MONTESINOS Michèle",
+      "points": 1568,
+      "games": 23,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHAIGNEAU Sylvie",
+      "points": 1564,
+      "games": 49,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JUSTET Myriam",
+      "points": 1564,
+      "games": 83,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEVEILLARD Josiane",
+      "points": 1564,
+      "games": 31,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DELAVAL Olivier",
+      "points": 1563,
+      "games": 7,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PIRONAUD Bruno",
+      "points": 1562,
+      "games": 25,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PORS Martine",
+      "points": 1562,
+      "games": 8,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ABBA Ymeddine",
+      "points": 1559,
+      "games": 32,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BARJOT Richard",
+      "points": 1559,
+      "games": 65,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LECLAIR Odile",
+      "points": 1557,
+      "games": 89,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GAVAUDAN Nicole",
+      "points": 1556,
+      "games": 10,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JEANCOLAS Cédric",
+      "points": 1554,
+      "games": 95,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LE BEC Gaël",
+      "points": 1554,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MANIER Thierry",
+      "points": 1552,
+      "games": 152,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JOUET Odile",
+      "points": 1551,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NIASSE Cheikh",
+      "points": 1551,
+      "games": 38,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GÈNE Yves",
+      "points": 1547,
+      "games": 116,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DALLET Sylvette",
+      "points": 1545,
+      "games": 169,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GALIPAUD Janine",
+      "points": 1545,
+      "games": 56,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LECLERCQ Nicole",
+      "points": 1545,
+      "games": 204,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FOURY Véronique",
+      "points": 1543,
+      "games": 98,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LARDIÈRE Karine",
+      "points": 1543,
+      "games": 10,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "KALWAROWSKI Brigitte",
+      "points": 1542,
+      "games": 241,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARCHAL André",
+      "points": 1542,
+      "games": 26,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MAURIN Luc",
+      "points": 1542,
+      "games": 5,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "POUCHAIN Olivier",
+      "points": 1542,
+      "games": 18,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MUSSARD Maxence",
+      "points": 1541,
+      "games": 48,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CORNANT Monique",
+      "points": 1538,
+      "games": 202,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SALIOU Frédéric",
+      "points": 1538,
+      "games": 21,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HUMBERT Marie-Thérèse",
+      "points": 1536,
+      "games": 10,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VENET Sylvie",
+      "points": 1536,
+      "games": 30,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHESNEAU Michel",
+      "points": 1533,
+      "games": 109,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FAUVEL Maurice",
+      "points": 1533,
+      "games": 202,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SANDRINI Pierre",
+      "points": 1533,
+      "games": 157,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BERTRAND Benoît",
+      "points": 1530,
+      "games": 10,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CERCIO Denise",
+      "points": 1530,
+      "games": 56,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COBET Patrice",
+      "points": 1530,
+      "games": 9,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PETITJEAN Philippe",
+      "points": 1530,
+      "games": 77,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RIQUE Jean-François",
+      "points": 1530,
+      "games": 3,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CARTALLIER Érick",
+      "points": 1529,
+      "games": 92,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARGIRIER Agnès",
+      "points": 1528,
+      "games": 103,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MOJARD Véronique",
+      "points": 1528,
+      "games": 10,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SERVAIS Emmanuel",
+      "points": 1528,
+      "games": 104,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VIRGO Éric",
+      "points": 1528,
+      "games": 109,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TALLÉ Annie",
+      "points": 1526,
+      "games": 72,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TOUGARD Didier",
+      "points": 1526,
+      "games": 5,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GLONDU Stéphane",
+      "points": 1525,
+      "games": 290,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MOUSSU Jean-Pierre",
+      "points": 1524,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ASSUMEL Pierre",
+      "points": 1523,
+      "games": 86,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HARLET Karine",
+      "points": 1523,
+      "games": 15,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DAILLY Bernard",
+      "points": 1522,
+      "games": 5,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GADUEL Éric",
+      "points": 1522,
+      "games": 7,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PLETSCHETTE Véronique",
+      "points": 1522,
+      "games": 1,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COHEN René",
+      "points": 1521,
+      "games": 13,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FONTENAY Philippe",
+      "points": 1521,
+      "games": 1,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LANDREAU Alain",
+      "points": 1520,
+      "games": 131,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LÉGIOT Pierre-Emmanuel",
+      "points": 1519,
+      "games": 9,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SEYMAT Roland",
+      "points": 1519,
+      "games": 1,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COURAYE DU PARC Marie-Thérèse",
+      "points": 1518,
+      "games": 1,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NININ Jocelyne",
+      "points": 1518,
+      "games": 73,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "POULAIN Nathalie",
+      "points": 1518,
+      "games": 246,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GLONDU Georges",
+      "points": 1517,
+      "games": 4,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VIVANT Michel",
+      "points": 1517,
+      "games": 62,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ARRIGHI Jean-Claude",
+      "points": 1516,
+      "games": 81,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BÉLARD Michel",
+      "points": 1516,
+      "games": 74,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DELANOË Marylène",
+      "points": 1516,
+      "games": 75,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RAIZMAN Alexandre",
+      "points": 1516,
+      "games": 86,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CARLIER Bruno",
+      "points": 1515,
+      "games": 15,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DEVERGIE Jean-Pierre",
+      "points": 1515,
+      "games": 39,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOURGEON Didier",
+      "points": 1514,
+      "games": 14,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RULLIÈRE Martine",
+      "points": 1514,
+      "games": 10,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VERNE Jean-Luc",
+      "points": 1514,
+      "games": 40,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CELLIER Nicolas",
+      "points": 1513,
+      "games": 60,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEDOUX Christine",
+      "points": 1513,
+      "games": 10,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MAIRE Laëtitia",
+      "points": 1513,
+      "games": 34,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LARMINIER Hervé",
+      "points": 1512,
+      "games": 12,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PICARD Joëlle",
+      "points": 1511,
+      "games": 64,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DOUMERC Nicole",
+      "points": 1510,
+      "games": 15,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GONTARD Serge",
+      "points": 1510,
+      "games": 22,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MACUTO Dominique",
+      "points": 1509,
+      "games": 14,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARIE Denise",
+      "points": 1509,
+      "games": 2,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "KMIECIAK Pierre",
+      "points": 1508,
+      "games": 8,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SAUL Laurent",
+      "points": 1508,
+      "games": 31,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DIHANG Marie-Claire",
+      "points": 1507,
+      "games": 5,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PRIMET Jean-Robert",
+      "points": 1506,
+      "games": 33,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEMAIRE Emmanuelle",
+      "points": 1505,
+      "games": 7,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROLAND Patrice",
+      "points": 1505,
+      "games": 39,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VERDEYROUX Christiane",
+      "points": 1505,
+      "games": 121,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BEAUGRAND Martine",
+      "points": 1503,
+      "games": 2,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DELZENNE Philippe",
+      "points": 1503,
+      "games": 50,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUPUY Nathalie",
+      "points": 1503,
+      "games": 169,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GÉRAUT Roland",
+      "points": 1503,
+      "games": 40,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MATON Luc",
+      "points": 1503,
+      "games": 145,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FAUQUEMBERGUE Sylvestre",
+      "points": 1502,
+      "games": 1,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FRANÇOIS Corinne",
+      "points": 1502,
+      "games": 95,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ARANAZ Régine",
+      "points": 1501,
+      "games": 24,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FLAHAUT Francis",
+      "points": 1501,
+      "games": 25,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JEANMOUGIN Chantal",
+      "points": 1501,
+      "games": 83,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SOULIER Guy",
+      "points": 1501,
+      "games": 50,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BÉRAUD Monique",
+      "points": 1500,
+      "games": 10,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COUTURE Didier",
+      "points": 1500,
+      "games": 89,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEMAITRE Estelle",
+      "points": 1500,
+      "games": 4,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ARANDA Enrique",
+      "points": 1499,
+      "games": 182,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GUEGUEN Gilbert",
+      "points": 1499,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARTHE Pierre",
+      "points": 1499,
+      "games": 23,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MINOUS Michèle",
+      "points": 1499,
+      "games": 15,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ESCALLON Danielle",
+      "points": 1498,
+      "games": 102,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DE COCK Évelyne",
+      "points": 1496,
+      "games": 20,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PERRIN Dominique",
+      "points": 1496,
+      "games": 3,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CELLIER Bernard",
+      "points": 1495,
+      "games": 20,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHALENDAR Anne-Marie",
+      "points": 1495,
+      "games": 2,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GRENTE Jean-Charles",
+      "points": 1495,
+      "games": 45,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LECONTE Christian",
+      "points": 1494,
+      "games": 84,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VILLENEUVE Didier",
+      "points": 1494,
+      "games": 40,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CARIOU Marie-Aude",
+      "points": 1493,
+      "games": 15,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DENOUAL Marie-Christine",
+      "points": 1493,
+      "games": 44,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MATHIAUD Monique",
+      "points": 1492,
+      "games": 5,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BANCAL Bernadette",
+      "points": 1491,
+      "games": 4,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DAVID Marie-France",
+      "points": 1491,
+      "games": 99,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MAS Michel",
+      "points": 1491,
+      "games": 5,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "AUSSANT Thérèse",
+      "points": 1490,
+      "games": 56,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHAPELIN Danielle",
+      "points": 1490,
+      "games": 5,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUVAL Guillaume",
+      "points": 1490,
+      "games": 10,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GEOURJON Claude",
+      "points": 1490,
+      "games": 10,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MAS Marylise",
+      "points": 1489,
+      "games": 10,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PELLETIER Marc",
+      "points": 1489,
+      "games": 40,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ALLOUCH Julie",
+      "points": 1488,
+      "games": 5,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COMBE Christiane",
+      "points": 1488,
+      "games": 4,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DENIS Thierry",
+      "points": 1488,
+      "games": 20,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROSIÈRES Nadine",
+      "points": 1488,
+      "games": 5,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SINTINO Alfonso",
+      "points": 1488,
+      "games": 111,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHASSIGNEUX Carine",
+      "points": 1487,
+      "games": 10,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FAURE Chrystel",
+      "points": 1487,
+      "games": 10,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DREMIER Cécile",
+      "points": 1486,
+      "games": 98,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LAMOTE Armand",
+      "points": 1486,
+      "games": 1,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MIMOUMI Mohamed",
+      "points": 1485,
+      "games": 1,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PADIOU Denis",
+      "points": 1485,
+      "games": 7,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RAVEL Paul",
+      "points": 1485,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BERNARD Patrick",
+      "points": 1484,
+      "games": 70,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COMPERNOLLE Claude",
+      "points": 1484,
+      "games": 1,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DONALISIO Christine",
+      "points": 1483,
+      "games": 1,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LANGRAND Patrick",
+      "points": 1483,
+      "games": 16,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NICOLE Raymonde",
+      "points": 1483,
+      "games": 19,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LE BRAS Alain",
+      "points": 1482,
+      "games": 10,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUCLOUX Brian",
+      "points": 1481,
+      "games": 1,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MENOTTI Marie-Catherine",
+      "points": 1481,
+      "games": 5,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CADIOU Éric",
+      "points": 1480,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FOURY Jean-Jacques",
+      "points": 1480,
+      "games": 178,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOUKALA Pascal",
+      "points": 1479,
+      "games": 6,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROUMÉAS Goulven",
+      "points": 1479,
+      "games": 10,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RUFFIN Dominique",
+      "points": 1479,
+      "games": 3,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DESOIGNIES Daniel",
+      "points": 1477,
+      "games": 10,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FRANÇOIS Michel",
+      "points": 1477,
+      "games": 83,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HARLAY François",
+      "points": 1477,
+      "games": 108,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HAU Claudine",
+      "points": 1476,
+      "games": 2,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CÉDARD Eliane",
+      "points": 1475,
+      "games": 4,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HARAMBURU Jean-Jacques",
+      "points": 1475,
+      "games": 10,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BLANCHET Mathieu",
+      "points": 1474,
+      "games": 29,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GETZ Philippe",
+      "points": 1474,
+      "games": 15,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HENRIOT Jacques",
+      "points": 1474,
+      "games": 5,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "INOUSSA Abdel Hakim",
+      "points": 1474,
+      "games": 60,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GOSSELIN Serge",
+      "points": 1473,
+      "games": 20,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HUGERON Hervé",
+      "points": 1473,
+      "games": 7,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "IACONO Giovanni",
+      "points": 1473,
+      "games": 5,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SWAHN Allan",
+      "points": 1473,
+      "games": 16,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOUCHERAND Marie-Hélène",
+      "points": 1472,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DAGUISÉ Bernard",
+      "points": 1472,
+      "games": 11,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SCHWARTZ Denis",
+      "points": 1472,
+      "games": 5,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HÈCHES Laurent",
+      "points": 1471,
+      "games": 2,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PÊCHEUR Monique",
+      "points": 1471,
+      "games": 162,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TEURNIER Éric",
+      "points": 1471,
+      "games": 5,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VILLENEUVE Jacqueline",
+      "points": 1471,
+      "games": 40,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MOLLET Hélène",
+      "points": 1470,
+      "games": 13,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "THIL Martine",
+      "points": 1470,
+      "games": 65,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEFEBVRE Isabelle",
+      "points": 1469,
+      "games": 5,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LUST Christophe",
+      "points": 1469,
+      "games": 9,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RUMEAU Christophe",
+      "points": 1469,
+      "games": 11,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GAUDIN Fabrice",
+      "points": 1468,
+      "games": 56,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BIÉLEC Frédéric",
+      "points": 1467,
+      "games": 87,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOULANGER Andréa",
+      "points": 1467,
+      "games": 4,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DEHIER Jacques",
+      "points": 1467,
+      "games": 13,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HORENFELD Nadia",
+      "points": 1467,
+      "games": 10,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MANDRAS Josette",
+      "points": 1467,
+      "games": 2,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DOLY Christian",
+      "points": 1466,
+      "games": 35,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FOURTINON Jean-Pierre",
+      "points": 1466,
+      "games": 5,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "OILLAUX Didier",
+      "points": 1466,
+      "games": 8,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PERRIN Jean-Claude",
+      "points": 1466,
+      "games": 3,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHARVIER Jean-Baptiste",
+      "points": 1465,
+      "games": 30,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COHEN Joëlle",
+      "points": 1465,
+      "games": 19,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GERMAIN Élyane",
+      "points": 1465,
+      "games": 14,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LUU Boris",
+      "points": 1465,
+      "games": 36,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PIRÈS Marie",
+      "points": 1465,
+      "games": 15,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "AUZANNEAU Maxime",
+      "points": 1464,
+      "games": 75,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FOLTZ Laurent",
+      "points": 1464,
+      "games": 12,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RIO Philippe",
+      "points": 1464,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HENNEUSE Nolan",
+      "points": 1463,
+      "games": 3,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LUET Jean-Pierre",
+      "points": 1463,
+      "games": 15,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "THIVET Michel",
+      "points": 1463,
+      "games": 9,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BRASSEUR Monique",
+      "points": 1462,
+      "games": 5,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUPIC Jacques",
+      "points": 1462,
+      "games": 72,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FIÉVET Anne-Marie",
+      "points": 1462,
+      "games": 27,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GRIMAULT Régis",
+      "points": 1462,
+      "games": 61,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "QUEVEDO Florence",
+      "points": 1462,
+      "games": 8,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOUCHEZ Patrick",
+      "points": 1461,
+      "games": 20,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RIDEAU Laëtitia",
+      "points": 1461,
+      "games": 112,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TONELLI Yvette",
+      "points": 1461,
+      "games": 12,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BUNOUF Corentin",
+      "points": 1460,
+      "games": 187,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LÉVÊQUE Yves",
+      "points": 1460,
+      "games": 83,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RISSE Myriam",
+      "points": 1460,
+      "games": 13,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GRANGER Gérard",
+      "points": 1459,
+      "games": 88,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VIRGO Laura",
+      "points": 1458,
+      "games": 103,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LE MOAN Annie",
+      "points": 1457,
+      "games": 114,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEMAITRE Dominique",
+      "points": 1457,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MONTONI Chantal",
+      "points": 1457,
+      "games": 15,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SORONDO Mathieu",
+      "points": 1457,
+      "games": 5,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VANNIÈRE Robert",
+      "points": 1457,
+      "games": 66,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BAUDRY Françoise",
+      "points": 1456,
+      "games": 10,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HULIN Gaëlle",
+      "points": 1456,
+      "games": 47,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PILLOT Zeneida",
+      "points": 1456,
+      "games": 14,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BRIOT Michèle",
+      "points": 1455,
+      "games": 7,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COMTE Aurélien",
+      "points": 1455,
+      "games": 5,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RAULIN Christine",
+      "points": 1455,
+      "games": 69,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CASTELIN Maxime",
+      "points": 1454,
+      "games": 7,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DEVAUX Denis",
+      "points": 1454,
+      "games": 44,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUBO Michèle",
+      "points": 1454,
+      "games": 70,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "KOHEN Lucienne",
+      "points": 1454,
+      "games": 81,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "POILPRÉ Jean-Louis",
+      "points": 1454,
+      "games": 45,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TARGUI Martine",
+      "points": 1454,
+      "games": 50,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "WECKEL Gabrielle",
+      "points": 1454,
+      "games": 8,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DE LA CORBIÈRE Geneviève",
+      "points": 1453,
+      "games": 10,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JACQUES Pascal",
+      "points": 1453,
+      "games": 8,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LAUNAY Monique",
+      "points": 1453,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BERNARD Denise",
+      "points": 1452,
+      "games": 8,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOUVET Jocelyne",
+      "points": 1452,
+      "games": 16,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SARROT Vincent",
+      "points": 1452,
+      "games": 138,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUTERTRE Brigitte",
+      "points": 1450,
+      "games": 9,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SOLIER Isabelle",
+      "points": 1450,
+      "games": 5,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BARON Mickaël",
+      "points": 1449,
+      "games": 75,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ENCARNACAO Daniel",
+      "points": 1448,
+      "games": 9,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CAILLOT Josiane",
+      "points": 1447,
+      "games": 5,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PREL Sylvie",
+      "points": 1447,
+      "games": 10,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RIOS Jean-Jacques",
+      "points": 1447,
+      "games": 12,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GOBLED Annick",
+      "points": 1445,
+      "games": 51,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NOURRI Roger",
+      "points": 1445,
+      "games": 5,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DURAND Michèle",
+      "points": 1444,
+      "games": 40,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEGOUPIL Sylvie",
+      "points": 1444,
+      "games": 5,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "REMAUD Richard",
+      "points": 1444,
+      "games": 51,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RIBOULET Olivier",
+      "points": 1444,
+      "games": 4,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RINQUIN Annick",
+      "points": 1444,
+      "games": 36,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROUSSELLE Bruno",
+      "points": 1444,
+      "games": 4,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LACOUT Jean-Michel",
+      "points": 1443,
+      "games": 30,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEBOURG Marine",
+      "points": 1443,
+      "games": 4,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TÉOULE Antonin",
+      "points": 1443,
+      "games": 5,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LE ROY Annick",
+      "points": 1441,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LIBIOULLE Laurent",
+      "points": 1441,
+      "games": 239,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PHILIBERT France",
+      "points": 1441,
+      "games": 5,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ZAKRZEWSKI Jacques",
+      "points": 1441,
+      "games": 18,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GAMBART ALLOUCH Arthur",
+      "points": 1440,
+      "games": 5,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DA SILVA Cédric",
+      "points": 1439,
+      "games": 28,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LORQUINET Roselyne",
+      "points": 1439,
+      "games": 61,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOSSARD Lucette",
+      "points": 1438,
+      "games": 24,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FAURE Sylvie",
+      "points": 1438,
+      "games": 20,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FOSSERIES David",
+      "points": 1438,
+      "games": 79,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TEURNIER Léa",
+      "points": 1438,
+      "games": 5,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DESCHEPPER Jocelyne",
+      "points": 1437,
+      "games": 10,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JUBIN Monique",
+      "points": 1437,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COUTAREL Émilie",
+      "points": 1435,
+      "games": 9,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEBOURG Hervé",
+      "points": 1435,
+      "games": 5,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARTIN Christine",
+      "points": 1435,
+      "games": 35,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FAURE Gilles",
+      "points": 1434,
+      "games": 45,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GIANNONI Philippe",
+      "points": 1434,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ANGLADE Brigitte",
+      "points": 1433,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FÈCHE Chantal",
+      "points": 1433,
+      "games": 5,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GIRALDON Brigitte",
+      "points": 1433,
+      "games": 5,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JURY Nicole",
+      "points": 1433,
+      "games": 20,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GUINOT Christèle",
+      "points": 1432,
+      "games": 10,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ESCRIVA Marie-Claire",
+      "points": 1431,
+      "games": 14,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CABANE Hélène",
+      "points": 1430,
+      "games": 107,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PICHON Marianne",
+      "points": 1430,
+      "games": 25,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TRASSART Marie-Madeleine",
+      "points": 1430,
+      "games": 15,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEBOURG Bernard",
+      "points": 1428,
+      "games": 68,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SEMIATCKI Daniel",
+      "points": 1428,
+      "games": 4,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUVAL Philippe",
+      "points": 1427,
+      "games": 10,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PERRIER Jean-Paul",
+      "points": 1427,
+      "games": 15,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COMBES Pascale",
+      "points": 1426,
+      "games": 10,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HUBERT Florence",
+      "points": 1426,
+      "games": 10,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LALOÉ Guillaume",
+      "points": 1426,
+      "games": 72,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROUDIL Arlette",
+      "points": 1426,
+      "games": 19,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COTTET Alexi",
+      "points": 1425,
+      "games": 14,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DESCHILDRE Jean-Jacques",
+      "points": 1425,
+      "games": 6,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GONGASSIAN Michel",
+      "points": 1425,
+      "games": 144,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MANIER Tina",
+      "points": 1424,
+      "games": 63,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PÉROT Mireille",
+      "points": 1424,
+      "games": 77,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DALLET Gilbert",
+      "points": 1423,
+      "games": 149,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SEVESTRE Évelyne",
+      "points": 1423,
+      "games": 4,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VOILLET Sophie",
+      "points": 1423,
+      "games": 32,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BRASSET Catherine",
+      "points": 1422,
+      "games": 10,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DRIVIÈRE Christian",
+      "points": 1421,
+      "games": 133,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HAMON Patricia",
+      "points": 1421,
+      "games": 4,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MICHAUD Pascal",
+      "points": 1421,
+      "games": 10,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHIROUSE Micheline",
+      "points": 1420,
+      "games": 122,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COMBE Christine",
+      "points": 1420,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DENIZET Catherine",
+      "points": 1420,
+      "games": 49,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MAYBON Claudette",
+      "points": 1420,
+      "games": 57,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "WARNIER Pierre",
+      "points": 1420,
+      "games": 99,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GRÉARD Jacques",
+      "points": 1419,
+      "games": 76,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BAUDU André",
+      "points": 1418,
+      "games": 8,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MEDIONI Thierry",
+      "points": 1417,
+      "games": 90,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "YOUNES Illiane",
+      "points": 1416,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COTTET Jordan",
+      "points": 1415,
+      "games": 5,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JOLY Annie",
+      "points": 1415,
+      "games": 18,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARTIN Patricia",
+      "points": 1415,
+      "games": 48,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MONCOURTOIS Hervé",
+      "points": 1415,
+      "games": 102,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "AYOUN Joëlle",
+      "points": 1414,
+      "games": 66,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BERLAN Marielle",
+      "points": 1414,
+      "games": 82,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "POMMÈS Étiennette",
+      "points": 1414,
+      "games": 89,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BENTKOWSKI Marie",
+      "points": 1413,
+      "games": 6,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CARTAULT Jean-Louis",
+      "points": 1412,
+      "games": 38,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DORÉE Guillaume",
+      "points": 1412,
+      "games": 8,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GILLES Yohann",
+      "points": 1412,
+      "games": 15,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "AVRIL Josette",
+      "points": 1411,
+      "games": 74,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BASTIN Nicolas",
+      "points": 1411,
+      "games": 55,
+      "inactivity": 8,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GAGNAIRE Béatrice",
+      "points": 1410,
+      "games": 24,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LETUPPE Patrick",
+      "points": 1410,
+      "games": 8,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SIEGLER Loukas",
+      "points": 1408,
+      "games": 5,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BARREAU Élisabeth",
+      "points": 1406,
+      "games": 55,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GUYOT Julien",
+      "points": 1405,
+      "games": 5,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JOMARD Jean-Maurice",
+      "points": 1405,
+      "games": 42,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROCHER Janine",
+      "points": 1404,
+      "games": 64,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ÉVRARD Riley",
+      "points": 1404,
+      "games": 5,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "POUVREAU Annie",
+      "points": 1403,
+      "games": 70,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "THOMAS Monique",
+      "points": 1403,
+      "games": 15,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CLÉRO Mona",
+      "points": 1402,
+      "games": 78,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DEMANGE Jean-François",
+      "points": 1401,
+      "games": 14,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FAGET Nicole",
+      "points": 1401,
+      "games": 5,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MOKUJELIA Martine",
+      "points": 1401,
+      "games": 10,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VERDIER Danielle",
+      "points": 1401,
+      "games": 5,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BERTHOMÉ Michel",
+      "points": 1400,
+      "games": 15,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LECOINTRE Marie-Claude",
+      "points": 1400,
+      "games": 65,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MAROT Guy",
+      "points": 1400,
+      "games": 30,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOULICOT Christine",
+      "points": 1398,
+      "games": 74,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FOUQUES Francine",
+      "points": 1398,
+      "games": 59,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LACOMME Josette",
+      "points": 1398,
+      "games": 14,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MALLET Yvette",
+      "points": 1398,
+      "games": 54,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROUX Josette",
+      "points": 1398,
+      "games": 16,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CONSTANCIEN Christian",
+      "points": 1396,
+      "games": 98,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TRIMOUILLE Michelle",
+      "points": 1396,
+      "games": 70,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "OUKAÏD Doris",
+      "points": 1395,
+      "games": 10,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BARGAS Christophe",
+      "points": 1394,
+      "games": 43,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CABIRO Janine",
+      "points": 1393,
+      "games": 15,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DENIAU Michel",
+      "points": 1393,
+      "games": 15,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DE MAZANCOURT Pierre",
+      "points": 1392,
+      "games": 22,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DROUILLET Suzanne",
+      "points": 1391,
+      "games": 6,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEBAUPIN Chantal",
+      "points": 1391,
+      "games": 14,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MÉJEAN Françoise",
+      "points": 1391,
+      "games": 29,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ADAMS Samuel",
+      "points": 1390,
+      "games": 35,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CHAPELET Anne",
+      "points": 1389,
+      "games": 5,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEROUX Vincent",
+      "points": 1389,
+      "games": 9,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PAYRAUDEAU Lydie",
+      "points": 1389,
+      "games": 74,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RENAUD Valentin",
+      "points": 1389,
+      "games": 8,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GANE Véronique",
+      "points": 1388,
+      "games": 112,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GEOFFROIS Josiane",
+      "points": 1388,
+      "games": 13,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ÉLIE Christine",
+      "points": 1388,
+      "games": 18,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HAZART Roseline",
+      "points": 1387,
+      "games": 80,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BONJOUR Dominique",
+      "points": 1386,
+      "games": 23,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GRIMAULT Monique",
+      "points": 1386,
+      "games": 23,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ANDRÉ Alfreda",
+      "points": 1385,
+      "games": 20,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TISSOT Jean-Pierre",
+      "points": 1385,
+      "games": 50,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BELLEIL Jacques",
+      "points": 1379,
+      "games": 23,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUDOME Georges",
+      "points": 1379,
+      "games": 50,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FAYOLA Martine",
+      "points": 1379,
+      "games": 14,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GUYONNET Renée",
+      "points": 1379,
+      "games": 15,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARIE Patricia",
+      "points": 1378,
+      "games": 62,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GENEVOIS Annie",
+      "points": 1377,
+      "games": 76,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SCHEHER Charles",
+      "points": 1377,
+      "games": 15,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "AUBRIÈRE Marie-Christine",
+      "points": 1375,
+      "games": 28,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOCHAND Suzanne",
+      "points": 1375,
+      "games": 8,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PAYEN Bertrand",
+      "points": 1373,
+      "games": 53,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "POMMEREUL Édith",
+      "points": 1371,
+      "games": 23,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GRAVERINI Chantal",
+      "points": 1370,
+      "games": 6,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DARIDAN Daniel",
+      "points": 1368,
+      "games": 172,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GUIBRETEAU Gabrièle",
+      "points": 1368,
+      "games": 110,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "THOMAS Claudine",
+      "points": 1368,
+      "games": 56,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JOUBERT Arlette",
+      "points": 1367,
+      "games": 9,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DELAUNAY Danièle",
+      "points": 1365,
+      "games": 15,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FOUQUET Maryse",
+      "points": 1365,
+      "games": 29,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "POUCHAIN-CASTELIN Ludivine",
+      "points": 1365,
+      "games": 19,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUBRAY Yannick",
+      "points": 1364,
+      "games": 40,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HEUZÉ Pascale",
+      "points": 1362,
+      "games": 74,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOISUMEAU Ghislaine",
+      "points": 1361,
+      "games": 118,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CORREIA Lucienne",
+      "points": 1359,
+      "games": 30,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MONSINJON Claude",
+      "points": 1359,
+      "games": 32,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GOUVE Agnès",
+      "points": 1358,
+      "games": 7,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOLLE Marie-Jo",
+      "points": 1357,
+      "games": 122,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DERLON Josiane",
+      "points": 1357,
+      "games": 61,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RAMOS Pedro",
+      "points": 1356,
+      "games": 37,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "CALIFICE Christine",
+      "points": 1354,
+      "games": 31,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TISSOT Nicole",
+      "points": 1354,
+      "games": 57,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GAZET Danièle",
+      "points": 1352,
+      "games": 35,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SEGHI Marie-Rose",
+      "points": 1352,
+      "games": 104,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOUCHET Brigitte",
+      "points": 1351,
+      "games": 14,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BÉRAUD Jean-Pierre",
+      "points": 1350,
+      "games": 43,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DAVESNE Thérèse",
+      "points": 1350,
+      "games": 33,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BRENEZ Alain",
+      "points": 1349,
+      "games": 93,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DEVOUASSOUX Axel",
+      "points": 1349,
+      "games": 9,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOUQUIAUX Christel",
+      "points": 1348,
+      "games": 21,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GUICHARD Miguel",
+      "points": 1348,
+      "games": 48,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TROMAS Marie-France",
+      "points": 1348,
+      "games": 10,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOCHAND Audrey",
+      "points": 1347,
+      "games": 76,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BÉROUD-BLANC Irène",
+      "points": 1347,
+      "games": 11,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TURCO Angela",
+      "points": 1346,
+      "games": 73,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VERGNIÈRES Julien",
+      "points": 1346,
+      "games": 66,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "VIGIER Bernadette",
+      "points": 1346,
+      "games": 12,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HERPIN Jacqueline",
+      "points": 1345,
+      "games": 35,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GONZALEZ Isabelle",
+      "points": 1343,
+      "games": 8,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEMESLE André",
+      "points": 1343,
+      "games": 142,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "COUMES Joël",
+      "points": 1342,
+      "games": 128,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PEUDEPIÈCE Sylviane",
+      "points": 1341,
+      "games": 39,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ESKENAZI David",
+      "points": 1340,
+      "games": 20,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOUSSUGE Nadia",
+      "points": 1339,
+      "games": 13,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DUNEZ Christophe",
+      "points": 1339,
+      "games": 9,
+      "inactivity": 10,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOUVIER Louise",
+      "points": 1338,
+      "games": 18,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEMAITRE Emmanuel",
+      "points": 1338,
+      "games": 22,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROUX Marie-Thérèse",
+      "points": 1338,
+      "games": 36,
+      "inactivity": 9,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MERRHEIM Dominique",
+      "points": 1336,
+      "games": 108,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROBIN Fabrice",
+      "points": 1336,
+      "games": 50,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "AMEWOKOUNOU Léon",
+      "points": 1335,
+      "games": 69,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "THOMAS Sylviane",
+      "points": 1335,
+      "games": 15,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FRICAUD Hélène",
+      "points": 1334,
+      "games": 33,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LAVEISSIÈRE Philippe",
+      "points": 1334,
+      "games": 65,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HÉRY Bernadette",
+      "points": 1333,
+      "games": 47,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GABRIELE Hector",
+      "points": 1332,
+      "games": 46,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PICARD Denis",
+      "points": 1330,
+      "games": 60,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DANDURAN Claude",
+      "points": 1329,
+      "games": 66,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MATILLON Françoise",
+      "points": 1327,
+      "games": 83,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "WANTIEZ Monique",
+      "points": 1326,
+      "games": 31,
+      "inactivity": 8,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "AMBROISE Annick",
+      "points": 1324,
+      "games": 62,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DOUARRE Muguette",
+      "points": 1323,
+      "games": 58,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LE MARQUIER Élisabeth",
+      "points": 1323,
+      "games": 78,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PLAINO Geneviève",
+      "points": 1322,
+      "games": 8,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BRET Sébastien",
+      "points": 1321,
+      "games": 106,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PHILIPPOT Marie-Annick",
+      "points": 1321,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HURET Dominique",
+      "points": 1320,
+      "games": 16,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HAYT Jean-Louis",
+      "points": 1317,
+      "games": 44,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JEAN Annick",
+      "points": 1317,
+      "games": 173,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NOYER Marie-Paule",
+      "points": 1317,
+      "games": 37,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DEROUVROY Odile",
+      "points": 1313,
+      "games": 50,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TICHAND Yannick",
+      "points": 1313,
+      "games": 61,
+      "inactivity": 9,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GADEBOIS Patrick",
+      "points": 1311,
+      "games": 14,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARGUERITE Laurent",
+      "points": 1311,
+      "games": 39,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BAILLIEUX Monique",
+      "points": 1310,
+      "games": 81,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MONDANGE Marie",
+      "points": 1309,
+      "games": 72,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "HARAKATE Mounem",
+      "points": 1308,
+      "games": 57,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "SAURA Josiane",
+      "points": 1306,
+      "games": 56,
+      "inactivity": 11,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TONICELLO Claire",
+      "points": 1304,
+      "games": 49,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TULPINCK Pascale",
+      "points": 1304,
+      "games": 105,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PIROTAIS Marie-Louise",
+      "points": 1299,
+      "games": 15,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ANDRÉ Christiane",
+      "points": 1295,
+      "games": 15,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JEAN Carine",
+      "points": 1295,
+      "games": 125,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LENGRONNE Jean-Paul",
+      "points": 1295,
+      "games": 79,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BALAY Éric",
+      "points": 1288,
+      "games": 18,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROUSSEAU Marie-Thérèse",
+      "points": 1283,
+      "games": 22,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DEVAULT Xavier",
+      "points": 1261,
+      "games": 38,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "RESSOT Christine",
+      "points": 1257,
+      "games": 46,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LE GOFF Andrée",
+      "points": 1255,
+      "games": 26,
+      "inactivity": 6,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "NIVAROSA Vincent",
+      "points": 1246,
+      "games": 49,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "POINCIGNON Rose-Anne",
+      "points": 1245,
+      "games": 44,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BIÉLEC Suzanne",
+      "points": 1236,
+      "games": 30,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "MARTIN Lucienne",
+      "points": 1235,
+      "games": 14,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DI GIOSIA Pascal",
+      "points": 1234,
+      "games": 38,
+      "inactivity": 1,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FONTESSE Agnès",
+      "points": 1232,
+      "games": 25,
+      "inactivity": 12,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DARIDAN Yvaine",
+      "points": 1230,
+      "games": 156,
+      "inactivity": 0,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "GALLAIS Monique",
+      "points": 1225,
+      "games": 26,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TOURANCHEAU Annick",
+      "points": 1225,
+      "games": 41,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "ROBETTE Alexandre",
+      "points": 1215,
+      "games": 27,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "DESLAIS Jean-Luc",
+      "points": 1209,
+      "games": 39,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "THOMINE Martine",
+      "points": 1204,
+      "games": 58,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEMAITRE Lorenzo",
+      "points": 1197,
+      "games": 22,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "BOLOGNE Jacques",
+      "points": 1194,
+      "games": 97,
+      "inactivity": 3,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LEDENT Natacha",
+      "points": 1171,
+      "games": 20,
+      "inactivity": 5,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "FOUACHE Patrice",
+      "points": 1168,
+      "games": 56,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "TOUSSAINT Michèle",
+      "points": 1151,
+      "games": 25,
+      "inactivity": 7,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "PRÉVOST Marie-Christine",
+      "points": 1148,
+      "games": 92,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "JEDRZEJEWSKI Ézekhiel",
+      "points": 1097,
+      "games": 76,
+      "inactivity": 4,
+      "history": [],
+      "source": "CLAX"
+    },
+    {
+      "player": "LE GUILLOUX Ronan",
+      "points": 1052,
+      "games": 94,
+      "inactivity": 2,
+      "history": [],
+      "source": "CLAX"
+    }
+  ]
+}

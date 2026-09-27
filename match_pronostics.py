@@ -2,13 +2,12 @@ import json
 from pathlib import Path
 
 import pandas as pd
+from elo_source import get_players
 
 
 # =========================================================
 # CONFIG
 # =========================================================
-
-PLAYERS_FILE = "data/players.json"
 SELECTION_FILE = "data/bracket_selection.txt"
 OVERRIDES_FILE = "data/overrides.json"
 OUTPUT_FILE = "outputs/excel/bracket_pronostics.xlsx"
@@ -102,7 +101,7 @@ def select_players_by_seed(all_players, selected_names):
 
     if duplicates:
         raise ValueError(
-            "Doublons détectés dans players.json : " + ", ".join(sorted(duplicates))
+            "Doublons détectés dans la source joueurs : " + ", ".join(sorted(duplicates))
         )
 
     selected_players = []
@@ -120,7 +119,7 @@ def select_players_by_seed(all_players, selected_names):
 
     if missing:
         raise ValueError(
-            "Joueurs introuvables dans players.json :\n- " + "\n- ".join(missing)
+            "Joueurs introuvables dans CLAX / overrides.json :\n- " + "\n- ".join(missing)
         )
 
     return selected_players
@@ -341,7 +340,7 @@ def export_to_excel(players_df, elo_control_df, bracket_df, matches_df, duel_df,
 
 def main():
     print("Chargement des joueurs...")
-    all_players = load_players(PLAYERS_FILE)
+    all_players = get_players(OVERRIDES_FILE)
 
     print("Chargement de la finale (seeds 1 à 2)...")
     selected_names = load_selected_names(SELECTION_FILE)

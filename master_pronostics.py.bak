@@ -3,12 +3,13 @@ import random
 from pathlib import Path
 
 import pandas as pd
-from elo_source import get_players
 
 
 # =========================================================
 # CONFIG
 # =========================================================
+
+PLAYERS_FILE = "data/players.json"
 SELECTION_FILE = "data/master_selection.txt"
 OVERRIDES_FILE = "data/overrides.json"
 OUTPUT_FILE = "outputs/excel/pronostics_tournoi.xlsx"
@@ -110,7 +111,7 @@ def select_players(all_players, selected_names):
 
     if duplicates_in_source:
         raise ValueError(
-            "Doublons détectés dans la source joueurs : "
+            "Doublons détectés dans players.json : "
             + ", ".join(sorted(duplicates_in_source))
         )
 
@@ -132,7 +133,7 @@ def select_players(all_players, selected_names):
 
     if missing:
         raise ValueError(
-            "Joueurs introuvables dans CLAX / overrides.json :\n- "
+            "Joueurs introuvables dans players.json :\n- "
             + "\n- ".join(missing)
         )
 
@@ -443,7 +444,7 @@ def main():
     print(f"Simulations : {n_simulations}")
 
     print("Chargement des joueurs...")
-    all_players = get_players(OVERRIDES_FILE)
+    all_players = load_players(PLAYERS_FILE)
 
     print("Chargement de la sélection...")
     selected_names = load_selected_names(SELECTION_FILE)
