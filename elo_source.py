@@ -27,7 +27,7 @@ DEFAULT_OVERRIDES_FILE = BASE_DIR / "data" / "overrides.json"
 
 CLAX_CACHE_FILE = BASE_DIR / "data" / "clax_cache.json"
 
-CLAX_CACHE_TTL_MINUTES = 60
+CLAX_CACHE_TTL_MINUTES = 600
 
 
 # =========================================================
