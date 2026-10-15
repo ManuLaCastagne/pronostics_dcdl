@@ -9,3 +9,6 @@ xlsxwriter
 numpy
 lxml
 html5lib
+streamlit
+pandas
+selenium

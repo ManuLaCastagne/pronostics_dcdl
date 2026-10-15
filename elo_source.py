@@ -6,6 +6,9 @@ import unicodedata
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
+import shutil
+
+from selenium.webdriver.chrome.service import Service
 
 import pandas as pd
 from selenium import webdriver
@@ -195,25 +198,12 @@ def clear_clax_cache():
 def build_driver():
     options = Options()
 
-    options.add_argument(
-        "--headless=new"
-    )
-
-    options.add_argument(
-        "--no-sandbox"
-    )
-
-    options.add_argument(
-        "--disable-dev-shm-usage"
-    )
-
-    options.add_argument(
-        "--disable-gpu"
-    )
-
-    options.add_argument(
-        "--window-size=1920,1080"
-    )
+    options.add_argument("--headless=new")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--disable-software-rasterizer")
+    options.add_argument("--window-size=1920,1080")
 
     options.set_capability(
         "goog:loggingPrefs",
@@ -222,10 +212,47 @@ def build_driver():
         }
     )
 
+    # =====================================================
+    # RECHERCHE CHROMIUM
+    # =====================================================
+
+    chrome_binary = (
+        shutil.which("chromium")
+        or shutil.which("chromium-browser")
+        or shutil.which("google-chrome")
+        or shutil.which("google-chrome-stable")
+    )
+
+    # Sur Streamlit Cloud, Chromium est installé via packages.txt.
+    if chrome_binary:
+        options.binary_location = chrome_binary
+
+    # =====================================================
+    # RECHERCHE CHROMEDRIVER
+    # =====================================================
+
+    chromedriver = shutil.which(
+        "chromedriver"
+    )
+
+    # Streamlit Cloud / Linux :
+    # on utilise explicitement le driver installé par apt.
+    if chromedriver:
+
+        service = Service(
+            executable_path=chromedriver
+        )
+
+        return webdriver.Chrome(
+            service=service,
+            options=options,
+        )
+
+    # Mac local :
+    # Selenium Manager gère automatiquement ChromeDriver.
     return webdriver.Chrome(
         options=options
     )
-
 
 # =========================================================
 # INTERCEPTION RESEAU
